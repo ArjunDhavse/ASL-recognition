@@ -4,6 +4,7 @@ A classification model using  Resnet18 that was trained on over 10,000 files of 
 
 Make sure you have installed jetson-interfence and Docker Image from : https://github.com/dusty-nv/jetson-inference
 
+# Read More:
 You can access the offical videos on how to use the jetson-nano and Resnet18 model here as well as how to install pytorch and run the docker sequence: https://youtu.be/sN6aT9TpltU 
 It is a part of a larger series that completly explains how to use the Jetson nano and is crucial to watch if you want to create your own model
 
