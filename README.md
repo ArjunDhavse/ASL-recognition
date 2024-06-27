@@ -3,7 +3,7 @@
 A classification model using  Resnet18 that was trained on over 20,000 files of images of the different signs. Original Dataset can be accesed here (You do need an account to access it):https://www.kaggle.com/datasets/grassknoted/asl-alphabet and https://www.kaggle.com/datasets/debashishsau/aslamerican-sign-language-aplhabet-dataset?resource=download
 
 
-Make sure you have installed jetson-interfence and Docker Image from : https://github.com/dusty-nv/jetson-inference(This will be covered in the command list)
+Make sure you have installed jetson-interfence and Docker Image from : https://github.com/dusty-nv/jetson-inference  (This will be covered in the command list)
 
 # What is the Jetson Nano:
 ![16271-NVIDIA_Jetson_Nano_Developer_Kit__V3_-01](https://github.com/ArjunDhavse/ASL-recognition/assets/169238921/32a5c718-5efa-47d7-a72e-068fdbccda4e)
