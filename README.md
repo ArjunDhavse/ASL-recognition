@@ -59,7 +59,7 @@ The commands below are what will be required to run the model in the repository.
  6) change directory to python/training/classification/models and run the command
     
 ```
-    git clone --recursive linkhere.com
+    git clone --recursive https://github.com/ArjunDhavse/ASL-recognition
   ```
 
  7) You may get an error later while in the docker saying you're out of memory. You can ensure your system overcommits memory which allows it to have more memory for the task by running this now. Run this in your terminal when you're in your jetson-inference directory:(If you want to get back to Jetson infrence dorectory, run the cd ../ command until the terminal only shows the jetson infrence directory)
