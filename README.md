@@ -92,7 +92,7 @@ After all this, you should get an output depending on what you chose in step 9 i
 
 # Read More:
 You can access the offical videos on how to use the jetson-nano and Resnet18 model here as well as how to install pytorch and run the docker sequence: https://youtu.be/sN6aT9TpltU 
-It is a part of a larger series that completly explains how to use the Jetson nano and is crucial to watch if you want to create your own model.
+It is a part of a [larger series](https://www.youtube.com/playlist?list=PL5B692fm6--uQRRDTPsJDp4o0xbzkoyf8) that completly explains how to use the Jetson nano and is crucial to watch if you want to create your own model. 
 
 Thank You!
 
