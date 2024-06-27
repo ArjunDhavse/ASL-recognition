@@ -71,7 +71,7 @@ The commands below are what will be required to run the model in the repository.
  ```
 
 
-8) Use the command
+8) Change the directory to python/training/classification/models and run the command
  'ls models/A.S.L_Resnet18Model_ArjunDhavse_2024_/' to make sure that the model is on the nano. You should see a file called resnet18.onnx.
 
 9) You have two choices now, to run the model to recognise real-time hand movements via a webcam or to use the model to recognise an image
